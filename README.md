@@ -110,9 +110,6 @@ Example:
 "Artificial"
 ↓
 [0.12, 0.45, -0.21, ...]
-```
-
-```text
 "Intelligence"
 ↓
 [0.67, -0.11, 0.92, ...]
